@@ -42,7 +42,7 @@ creditLabel.TextStrokeTransparency = 0.7
 creditLabel.Font = Enum.Font.SourceSansItalic
 creditLabel.TextSize = 14
 creditLabel.TextXAlignment = Enum.TextXAlignment.Left
-creditLabel.Text = "Made by robloxcool on Discord"
+creditLabel.Text = "Made by robloxcool on Discord or Dhdhdbbbbbv on roblox "
 creditLabel.Parent = gui
 
 -- Save Position Handler
